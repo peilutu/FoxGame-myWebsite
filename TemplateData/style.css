@@ -6,8 +6,8 @@ body {
   position: absolute;
 }
 #unity-container.unity-desktop {
-  /* left: 50%; */
-  /* top: 50%; */
+  /* left: 50%;
+  top: 50%; */
   left: -40%;
   top: -20%;
   transform: scale(0.5);
